@@ -1,2 +1,2 @@
 # THM
-Repo to store any writeups/walkthroughs done for THM rooms
+Repo to store any writeups/walkthroughs done for TryHackMe rooms
