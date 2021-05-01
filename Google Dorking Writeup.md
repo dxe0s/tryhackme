@@ -80,8 +80,8 @@ Answer: <ins>filetype:</ins>
 
 **6.3.** _What term can we use to look for login pages?_  
 Answer: <ins>intitle: login</ins>  
-\- note: most login pages have the 'login' word in the title of the page
 ![GD_SS_6 3](https://user-images.githubusercontent.com/68154769/116790718-67783d80-aae8-11eb-8939-07f4aae66e61.png)
+\- note: most login pages have the 'login' word in the title of the page
 
 * * *
 ### <a id="misc"></a>Additional Notes
