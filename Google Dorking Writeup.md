@@ -57,25 +57,31 @@ Answer: <ins>.conf</ins>
 
 **5.1.** _What is the typical file structure of a "Sitemap"?_  
 Answer: <ins>xml</ins>  
+![GD_SS_5 1](https://user-images.githubusercontent.com/68154769/116790691-49aad880-aae8-11eb-8e5d-7cad43e58dd1.png)
 
 **5.2.** _What real life example can "Sitemaps" be compared to?_  
 Answer: <ins>map</ins>  
+![GD_SS_5 2](https://user-images.githubusercontent.com/68154769/116790697-50395000-aae8-11eb-9161-74fb300a26dd.png)
 
 **5.3.** _What real life example can "Sitemaps" be compared to?_  
 Answer: <ins>route</ins>  
+![GD_SS_5 3](https://user-images.githubusercontent.com/68154769/116790699-53344080-aae8-11eb-8fe8-4912d2524a4c.png)
 
 * * *
 ### <a id="Task6"></a>Task 6 - What is Google Dorking?
 
 **6.1.** _What would be the format used to query the site bbc.co.uk about flood defences?_  
 Answer: <ins>site: bbc.co.uk flood defences</ins>  
+![GD_SS_6 1](https://user-images.githubusercontent.com/68154769/116790710-60e9c600-aae8-11eb-9540-77e422c6cd93.png)
 
 **6.2.** _What term would you use to search by file type?_  
 Answer: <ins>filetype:</ins>  
+![GD_SS_6 2](https://user-images.githubusercontent.com/68154769/116790714-63e4b680-aae8-11eb-9120-bdbc14caafcd.png)
 
 **6.3.** _What term can we use to look for login pages?_  
 Answer: <ins>intitle: login</ins>  
 \- note: most login pages have the 'login' word in the title of the page
+![GD_SS_6 3](https://user-images.githubusercontent.com/68154769/116790718-67783d80-aae8-11eb-8939-07f4aae66e61.png)
 
 * * *
 ### <a id="misc"></a>Additional Notes
