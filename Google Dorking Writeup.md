@@ -38,6 +38,6 @@
 #### <a id="Task6"></a>Task 6 - What is Google Dorking?
 
 
-#### <a id="misc"></a>MISC
+#### <a id="misc"></a>Additional Notes
 
 
