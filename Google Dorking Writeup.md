@@ -1,5 +1,5 @@
 ## Google Dorking Writeup (THM)
-* * *
+
 #### Outline
 
 #### [Task 1 - Ye Ol' Search Engine](#Task1)
