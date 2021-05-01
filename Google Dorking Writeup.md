@@ -55,12 +55,29 @@ Answer: <ins>.conf</ins>
 * * *
 ### <a id="Task5"></a>Task 5 - SiteMaps
 
+**5.1.** _What is the typical file structure of a "Sitemap"?_  
+Answer: <ins>xml</ins>  
+
+**5.2.** _What real life example can "Sitemaps" be compared to?_  
+Answer: <ins>map</ins>  
+
+**5.3.** _What real life example can "Sitemaps" be compared to?_  
+Answer: <ins>route</ins>  
 
 * * *
 ### <a id="Task6"></a>Task 6 - What is Google Dorking?
 
+**6.1.** _What would be the format used to query the site bbc.co.uk about flood defences?_  
+Answer: <ins>site: bbc.co.uk flood defences</ins>  
+
+**6.2.** _What term would you use to search by file type?_  
+Answer: <ins>filetype:</ins>  
+
+**6.3.** _What term can we use to look for login pages?_  
+Answer: <ins>intitle: login</ins>  
+\- note: most login pages have the 'login' word in the title of the page
 
 * * *
 ### <a id="misc"></a>Additional Notes
-- [Google Dorking DB Reference](https://www.exploit-db.com/google-hacking-database) - for quick reference to google dorks for OSINT/Recon
+- [Google Dorking DB Reference](https://www.exploit-db.com/google-hacking-database) - for quick reference to more google dork terms for OSINT/Recon
 
