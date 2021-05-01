@@ -40,8 +40,8 @@ Answer: <ins>Keywords<ins>
 Answer: <ins>ablog.com/robots.txt</ins>
 
 **4.2.** _If a website was to have a sitemap, where would that be located?_  
-Answer: <ins>/sitemap.xml</ins>  [^4.2.]
-[^4.2.]: a .xml file is basically a text file which can be manually edited
+Answer: <ins>/sitemap.xml</ins> [^test]  
+[^test]: a .xml file is basically a text file which can be manually edited
 
 **4.3.** _How would we only allow "Bingbot" to index the website?_  
 Answer: <ins>User-agent: Bingbot</ins>
