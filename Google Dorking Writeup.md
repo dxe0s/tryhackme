@@ -12,8 +12,8 @@
 * * *
 
 #### <a id="Task1"></a>Task 1 - Ye Ol' Search Engine
-
 **No answer required**
+
 * * *
 #### <a id="Task2"></a>Task 2 - Let's Learn About Crawlers
 
@@ -25,16 +25,21 @@
 
 **2.3.** Answer: Keywords
 ![GD_SS_2 3](https://user-images.githubusercontent.com/68154769/116774027-15a1ca00-aa8c-11eb-861e-f57c1ca838b1.png)
+
 * * *
 #### <a id="Task3"></a>Task 3 - Enter: Search Engine Optimisation
 
+**No answer required**
 
+* * *
 #### <a id="Task4"></a>Task 4 - Beepboop - Robots.txt
 
 
+* * *
 #### <a id="Task5"></a>Task 5 - SiteMaps
 
 
+* * *
 #### <a id="Task6"></a>Task 6 - What is Google Dorking?
 
 
