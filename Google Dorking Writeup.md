@@ -20,10 +20,10 @@
 **2.1.** Answer: <ins>Index</ins>
 ![SS_2 1](https://user-images.githubusercontent.com/68154769/116773881-21d95780-aa8b-11eb-83bf-42534ae5346c.png)
 
-**2.2.** Answer: __Crawling__
+**2.2.** Answer: <ins>Crawling</ins>
 ![GD_SS_2 2](https://user-images.githubusercontent.com/68154769/116774129-f7889980-aa8c-11eb-8f53-45d1120653a8.png)
 
-**2.3.** Answer: __Keywords__
+**2.3.** Answer: <ins>Keywords<ins>
 ![GD_SS_2 3](https://user-images.githubusercontent.com/68154769/116774027-15a1ca00-aa8c-11eb-861e-f57c1ca838b1.png)
 
 * * *
