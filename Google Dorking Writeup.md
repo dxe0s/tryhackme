@@ -18,7 +18,7 @@
 #### <a id="Task2"></a>Task 2 - Let's Learn About Crawlers
 
 **2.1.** Answer: <ins>Index</ins>
-</br>
+
 ![SS_2 1](https://user-images.githubusercontent.com/68154769/116773881-21d95780-aa8b-11eb-83bf-42534ae5346c.png)
 
 **2.2.** Answer: <ins>Crawling</ins></n>
