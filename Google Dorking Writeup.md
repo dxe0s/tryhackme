@@ -1,7 +1,7 @@
 ### Google Dorking Writeup (THM)
-
-#### Outline
 * * *
+#### Outline
+
 ##### [Task 1 - Ye Ol' Search Engine](#Task1)
 ##### [Task 2 - Let's Learn About Crawlers](#Task2)
 ##### [Task 3 - Enter: Search Engine Optimisation](#Task3)
