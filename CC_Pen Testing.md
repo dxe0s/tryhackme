@@ -84,8 +84,8 @@ Answer: <ins>2.4.18</ins>
 Answer: <ins>
 Apache2 Ubuntu Default Page: It Works</ins>  
 command : `nmap -p 80 --script http-title <ip>`
-\- this command is executing the script 'http-title' on port 80 which we initially scanned for in Task 2.10
-\-tip: for better understanding, do [Nmap](https://tryhackme.com/room/furthernmap) room first
+\- this command is executing the script 'http-title' on port 80 which we initially scanned for in Task 2.10  
+\-tip: for better understanding, do [Nmap](https://tryhackme.com/room/furthernmap) room first  
 \-note: use man page for Nmap to check the flags used. 1 quick way to get the command you want, is to use grep. e.g. `man nmap | grep OS`
 
 * * *
