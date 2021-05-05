@@ -70,7 +70,7 @@ Answer: <ins>-sV</ins>
 **2.9.** 
 <ins>Click Completed</ins>  
 
-**2.10.** _How many ports are open on the machine? _  
+**2.10.** _How many ports are open on the machine?_  
 Answer: <ins>1</ins>  
 ![ccPT_2 10](https://user-images.githubusercontent.com/68154769/117125428-190abd80-adcc-11eb-8afc-14129882fa72.png)
 
