@@ -21,7 +21,7 @@
 **2.2.** _Scan the box, how many ports are open?_  
 Answer: <ins>6</ins>  
 \- command used: `nmap -A -p- -sT -vvv <ip>`
-	\- Enumerate for as much information as possible. (more often than not, 1 scan is not sufficient to ensure you've got all the infor you need)
+	\- Enumerate for as much information as possible. (more often than not, 1 scan is not sufficient to ensure you've got all the infor you need)  
 	\- nmap scan in aggressive mode `-A` & all ports `-p-` with TCP Connect Scan `-sT`
 
 **2.3.** _What version of the squid proxy is running on the machine?_  
