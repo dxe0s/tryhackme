@@ -48,7 +48,6 @@ Answer: <ins>-p</ins>
 
 **2.3.** _How do you do a "ping scan"(just tests if the host(s) is up)?_  
 Answer: <ins>-sn</ins>  
-![Uploading ccPT_2.3.png…]()
 \-tip: scanning all ports with <-p-> takes a very long time for just needing to know the host is up
 
 **2.4.** _What is the flag for a UDP scan?_  
@@ -86,7 +85,7 @@ Answer: <ins>
 Apache2 Ubuntu Default Page: It Works</ins>  
 command : `nmap -p 80 --script http-title <ip>`
 \- this command is executing the script 'http-title' on port 80 which we initially scanned for in Task 2.10
-\-tip: for better understanding, do [NMap](https://tryhackme.com/room/furthernmap) room first
+\-tip: for better understanding, do [Nmap](https://tryhackme.com/room/furthernmap) room first
 \-note: use man page for Nmap to check the flags used. 1 quick way to get the command you want, is to use grep. e.g. `man nmap | grep OS`
 
 * * *
