@@ -64,7 +64,7 @@ Answer: <ins>-A</ins>
 **2.7.** _What flag enables OS detection?_  
 Answer: <ins>-O</ins>  
 
-**2.8.** _How do you get the versions of services running on the target machine _  
+**2.8.** _How do you get the versions of services running on the target machine?_  
 Answer: <ins>-sV</ins>  
 
 **2.9.** 
