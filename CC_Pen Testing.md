@@ -44,16 +44,19 @@ Answer: <ins>Network Mapper</ins>
 
 **2.2.** _How do you specify which port(s) to scan?_  
 Answer: <ins>-p</ins>  
+![ccPT_2 2](https://user-images.githubusercontent.com/68154769/117125241-d9dc6c80-adcb-11eb-8d36-8d9092801f53.png)
 
 **2.3.** _How do you do a "ping scan"(just tests if the host(s) is up)?_  
 Answer: <ins>-sn</ins>  
-\-tip: scanning all ports with <-p-> takes a very long time for just needing to know the host is up
+\- tip: scanning all ports with <-p-> takes a very long time for just needing to know the host is up
 
 **2.4.** _What is the flag for a UDP scan?_  
 Answer: <ins>-sU</ins>  
+![ccPT_2 4](https://user-images.githubusercontent.com/68154769/117125330-fbd5ef00-adcb-11eb-9b09-3c67006c31d9.png)
 
 **2.5.** _How do you run default scripts?_  
 Answer: <ins>-sC</ins>  
+![ccPT_2 5](https://user-images.githubusercontent.com/68154769/117125343-00020c80-adcc-11eb-8198-3a57c51d0b71.png)
 
 **2.6.** _How do you enable "aggressive mode"(Enables OS detection, version detection, script scanning, and traceroute)_  
 Answer: <ins>-A</ins>  
@@ -61,14 +64,15 @@ Answer: <ins>-A</ins>
 **2.7.** _What flag enables OS detection?_  
 Answer: <ins>-O</ins>  
 
-**2.8.** _How do you get the versions of services running on the target machine _  
+**2.8.** _How do you get the versions of services running on the target machine?_  
 Answer: <ins>-sV</ins>  
 
 **2.9.** 
 <ins>Click Completed</ins>  
 
-**2.10.** _How many ports are open on the machine? _  
+**2.10.** _How many ports are open on the machine?_  
 Answer: <ins>1</ins>  
+![ccPT_2 10](https://user-images.githubusercontent.com/68154769/117125428-190abd80-adcc-11eb-8afc-14129882fa72.png)
 
 **2.11.** _What service is running on the machine?_  
 Answer: <ins>Apache</ins>  
@@ -80,10 +84,9 @@ Answer: <ins>2.4.18</ins>
 Answer: <ins>
 Apache2 Ubuntu Default Page: It Works</ins>  
 command : `nmap -p 80 --script http-title <ip>`
-\- this command is executing the script 'http-title' on port 80 which we initially scanned for in Task 2.10
-
-\-tip: for better understanding, do [NMap](https://tryhackme.com/room/furthernmap) room first
-\-note: use man page for Nmap to check the flags used. 1 quick way to get the command you want, is to use grep. e.g. `man nmap | grep OS`
+\- this command is executing the script 'http-title' on port 80 which we initially scanned for in Task 2.10  
+\- tip: for better understanding, do [Nmap](https://tryhackme.com/room/furthernmap) room first  
+\- note: use man page for Nmap to check the flags used. 1 quick way to get the command you want, is to use grep. e.g. `man nmap | grep OS`
 
 * * *
 ### <a id="Task3"></a>Task 3 - 
