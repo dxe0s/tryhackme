@@ -20,9 +20,9 @@
 
 **2.2.** _Scan the box, how many ports are open?_  
 Answer: <ins>6</ins>  
-\- command used: `nmap -A -p- -sT -vvv <ip>`
-	\- Enumerate for as much information as possible. (more often than not, 1 scan is not sufficient to ensure you've got all the infor you need)  
-	\- nmap scan in aggressive mode `-A` & all ports `-p-` with TCP Connect Scan `-sT`
+\- command used: `nmap -A -p- -sT -vvv <ip>`  
+	\- Enumerate for as much information as possible. (more often than not, 1 scan is not sufficient to ensure you've got all the infor you need).  
+	\- nmap scan in aggressive mode `-A` & all ports `-p-` with TCP Connect Scan `-sT`.
 
 **2.3.** _What version of the squid proxy is running on the machine?_  
 Answer: <ins>3.5.12</ins>  
@@ -31,8 +31,8 @@ Answer: <ins>3.5.12</ins>
 Answer: <ins>400</ins>  
 
 **2.5.** _Using the nmap flag -n what will it not resolve?_  
-Answer: <ins>DNS</ins>
-\- tip: [Explain Shell](https://explainshell.com/) is an online resource which can give a quick explaination of the command + flag 
+Answer: <ins>DNS</ins>  
+\- tip: [Explain Shell](https://explainshell.com/) is an online resource which can give a quick explaination of the command + flag.
 
 **2.6.** _What is the most likely operating system this machine is running?_  
 Answer: <ins>Ubuntu</ins>  
@@ -40,7 +40,7 @@ Answer: <ins>Ubuntu</ins>
 
 **2.7.** _What port is the web server running on?_  
 Answer: <ins>3333</ins>  
-\- tip: Doing a quick google search on the services on the machine, which will show what the services are used for and deduction can be made from there
+\- tip: Doing a quick google search on the services on the machine, which will show what the services are used for and deduction can be made from there.
 
 **2.8.**  **No answer required**
 
@@ -51,10 +51,10 @@ Answer: <ins>3333</ins>
 
 **3.2.** _What is the directory that has an upload form page?_  
 Answer: <ins>/internal/</ins>  
-Steps:
-	1) Use gobuster too enumerate for directories.
-		command: `gobuster dir -e -t 64 -u <ip> -w /usr/share/wordlists/<any_wordlist>`
-		wordlist used: `/usr/share/wordlists/dirbuster/directories.jbrofuzz`
+Steps:  
+	1) Use gobuster too enumerate for directories.  
+		command: `gobuster dir -e -t 64 -u <ip> -w /usr/share/wordlists/<any_wordlist>`  
+		wordlist used: `/usr/share/wordlists/dirbuster/directories.jbrofuzz`  
 	2) 
 
 * * *
@@ -89,7 +89,7 @@ Answer: <ins></ins>
 * * *
 ### <a id="misc"></a>Additional Notes
 Summary:  
-	1) Enumerate for services/info with Nmap
-	2) Enumerate directories on web server with GoBuster
+	1) Enumerate for services/info with Nmap  
+	2) Enumerate directories on web server with GoBuster  
 	3) 
 
